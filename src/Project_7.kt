@@ -1,6 +1,5 @@
+import java.util.Scanner
 class Project_7 {
-    import java.util.Scanner
-
     fun main() {
         val scanner = Scanner(System.`in`)
 
